@@ -26,7 +26,5 @@ public class FindTwo {
         ArrayList<Integer> list = new ArrayList<>();
         list = FindNumbersWithSum(arr,num);
         System.out.println(list.toString());
-        String s = "";
-
     }
 }
